@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Khizar Alam 👋:
 - Software Engineering student at FAST NU 🐢
 
 
