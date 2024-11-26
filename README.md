@@ -1,5 +1,7 @@
 # 💫 Hi, I'm Khizar Alam 👋:
 - Software Engineering student at FAST NU 🐢
+- Into (Full-Stack) Cross platform/Native App development
+- I do Designing and 2D Animation stuff as a hobby
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/KhizarAlamk/) 
