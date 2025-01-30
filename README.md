@@ -7,7 +7,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/KhizarAlamk/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khizar_alam09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khizar-alam-5718532a5/)
-<img align="right" height="150" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611ezl1ny7itpv8wcdqsawm84lzsl54ye4z3ynfl1zm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ0dTB1OTg0d3FnczdlenNxMDR2N2lkdGJ0bXA4YmJzb2Y3anY1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif"  />
+
 # 💻 Tech Stack:
 
 ## 🌐 **Frontend**:
